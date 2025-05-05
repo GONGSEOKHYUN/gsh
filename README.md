@@ -14,12 +14,12 @@ I'm also deeply interested in data engineering and how robust data pipelines can
 
 ## Research Publications
 
-**Conference Proceedings
+**Conference Proceedings**
 - S. Gong, W. Choi, C. Kim, et al., “Cnn-lstm-ae based predictive maintenance using stft for rotating machinery,” in 2023 IEEE/ACIS 8th International Conference on Big Data, Cloud Computing, and Data Science (BCD), 2023, pp. 80–85. î DOI: 10.1109/BCD57833.2023.10466277.
 - S. Gong and J. Jeong, “설비 모니터링을 위한 센서 데이터 기반의 대용량 데이터 수집 및 처리 시스템 설계,” in 2023 O2O Integrated Conference on Institute of Internet, Broadcasting and Communication (IIBC), 2023.
 - J. Cha, H. Ha, S. Gong, and J. Jeong, “Anomaly detection using deep cnn-elm in semiconductor manufacturing,” in 2022 6th European Conference on Electrical Engineering and Computer Science (ELECS), 2022, pp. 151–157. î DOI: 10.1109/ELECS55825.2022.00032.
 
-Patents and Program Registration
+**Patents and Program Registration**
 - S. Gong and J. Jeong, 결함 시뮬레이터 디지털 트윈 3d 모델, C-2024-004788, 2024.02.01.
 - S. Gong and J. Jeong, 공정 설비의 결함 예측을 위한 인공지능 모델의 학습 방법과 이에 기반한 추론 방법, 연산 장치 그리고 이의 기록매체 (artificial intelligence model learning method for predicting defects in process equipment, inference method based thereon, computing device, and recording medium thereof), 10-2024-0067884, 2024.05.24.
 - S. Gong and J. Jeong, 사출 성형기의 제조 진동 데이터 분석을 위한 생산 사이클에 따른 데이터 수집 시스템 (data collection system based on production cycle for analyzing manufacturing vibration data of injection molding machines), 10-2023-0024317, 2023.02.23.
@@ -30,7 +30,7 @@ Patents and Program Registration
 
 ## Research Project Participation
 
-Research Project
+**Research Project**
 - Machinery Fault Simulator를 이용한 Digital Twin 기반 예지보전 시스템
   Funding Agency: 교육부-한국연구재단, LINC 3.0
   Institution: 성균관대학교, (주)CTF
