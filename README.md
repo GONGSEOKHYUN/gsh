@@ -87,3 +87,48 @@ I'm also deeply interested in data engineering and how robust data pipelines can
   Funding Agency: 중소벤처기업부
   Institution: 천일엔지니어링(주), (주)CTF
   2023.06.01 - 2024.06.30
+
+---
+
+## Core Coursework
+
+**Course**
+- SKKU Field Experience Program(SFEP)
+  디지털 트윈 솔루션 개발
+- 스마트팩토리캡스톤디자인
+  딥러닝 기반의 시계열 데이터 이상탐지 알고리즘 설계 및 예지보전 시스템 구축
+- 데이터 분석, 기계학습 및 딥러닝
+  한국어 코퍼스 분석(뉴스 기사), 챗봇(감성 대화), 알약 분류(약학 데이터) 등 다수 팀프로젝트 진행
+
+**Seminar Proceedings**
+- DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
+- Timesnet: Temporal 2d-variation modeling for general time series analysis
+- Anomalybert: Self-supervised transformer for time series anomaly detection using data degradation scheme
+- MST-GAT_ A multimodal spatial-temporal graph attention network for time series anomaly detection
+- UTRAD: Anomaly detection and localization with U-Transformer
+- Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection
+- Characterising the Digital Twin A systematic literature review
+- Variational transformer-based anomaly detection approach for multivariate time series
+- Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy
+- TranAD Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data
+- Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+- Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals
+- DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series
+
+---
+
+## Skills
+- Python, C/C++, PyTorch, Keras, …
+- InFluxDB, MongoDB, Redis, …
+- Git, Docker, Kafka, Jupyter Notebooks, Linux, IoT, LabVIEW, Node-red, …
+
+---
+
+## Miscellaneous Experience
+- 
+- ICT 챌린지 2024
+- ITRC 2024 인재양성대전 전시
+- Smart Factory Automation World(SFAW) 2024 인재양성대전 전시
+- 삼성 생산공정연수
+- SMATEC 2024 전시
+- SMATEC 2023 전시
