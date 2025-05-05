@@ -14,7 +14,7 @@ I'm also deeply interested in data engineering and how robust data pipelines can
 
 ## Research Publications
 
-Conference Proceedings
+**Conference Proceedings
 - S. Gong, W. Choi, C. Kim, et al., “Cnn-lstm-ae based predictive maintenance using stft for rotating machinery,” in 2023 IEEE/ACIS 8th International Conference on Big Data, Cloud Computing, and Data Science (BCD), 2023, pp. 80–85. î DOI: 10.1109/BCD57833.2023.10466277.
 - S. Gong and J. Jeong, “설비 모니터링을 위한 센서 데이터 기반의 대용량 데이터 수집 및 처리 시스템 설계,” in 2023 O2O Integrated Conference on Institute of Internet, Broadcasting and Communication (IIBC), 2023.
 - J. Cha, H. Ha, S. Gong, and J. Jeong, “Anomaly detection using deep cnn-elm in semiconductor manufacturing,” in 2022 6th European Conference on Electrical Engineering and Computer Science (ELECS), 2022, pp. 151–157. î DOI: 10.1109/ELECS55825.2022.00032.
