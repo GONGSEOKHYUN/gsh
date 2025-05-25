@@ -14,6 +14,10 @@ I'm also deeply interested in data engineering and how robust data pipelines can
 
 ## Research Publications
 
+**Journal Articles**
+- S. Gong, T. Kim and J Jeong, "SPT-AD: Self-Supervised Pyramidal Transformer Network-Based Anomaly Detection of Time Series Vibration Data," in MDPI Applied Sciences Journal, Volume 15, Issue 9, Article number 5185, 21 pages, 7 May 2025.
+- T. Kim, J. Lee, S. Gong, J. Lim, D. Kim and J. Jeong, "A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing," in MDPI Machines Journal (Section: Machines Testing and Maintenance), Volume 13, issue 1, Article number 21, 29 pages, 31 December 2024.
+
 **Conference Proceedings**
 - S. Gong, W. Choi, C. Kim, et al., “Cnn-lstm-ae based predictive maintenance using stft for rotating machinery,” in 2023 IEEE/ACIS 8th International Conference on Big Data, Cloud Computing, and Data Science (BCD), 2023, pp. 80–85. î DOI: 10.1109/BCD57833.2023.10466277.
 - S. Gong and J. Jeong, “설비 모니터링을 위한 센서 데이터 기반의 대용량 데이터 수집 및 처리 시스템 설계,” in 2023 O2O Integrated Conference on Institute of Internet, Broadcasting and Communication (IIBC), 2023.
